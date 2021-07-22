@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Marck Script', cursive;
+    background: linear-gradient(to bottom right, #3F5EFB, #FC466B);
+
+}
+label{
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+}
+a {
+    color: #e3aedf;
+    font-weight: bold;
+    text-decoration: none;
+}
+.div-main{
+    text-align:  center;
+    background: #784678;
+}
+p {
+    margin: 10px 0;
+}
+.p{
+    position: relative;
+    margin-top: 100px;
+}
+h2{
+    color: white;
+    padding-top: 20px;
+}
+.container {
+    margin-top: -30px;
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    height: 650px;
+    background: #784678;
+}
+label{
+    color: white;
+}
+#avatar{
+    color: white;
+    box-shadow: unset;
+}
+.input-left{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+.input-right{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+input {
+    width: 250px;
+    margin: 5px 0;
+    padding: 7px;
+    border: unset;
+    outline: none;
+    box-shadow: 0 10px 25px -5px rgba(255, 255, 255, 0.4);
+}
+.margin{
+    position: absolute;
+    margin-top: 350px;
+}
+.btn {
+    padding: 10px;
+    background: #e3c4db;
+    border: unset;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 250px;
+}
+
+.error {
+    border-bottom: 2px solid #ff4332;
+}
+
+.msg {
+    border-radius: 3px;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: #ff4332;
+}
+.div-msg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.none {
+    display: none;
+}
+
+.logout {
+    color: #b7625c;
+}
