@@ -1,0 +1,1 @@
+A simple project that allows you to create a user account. There are two roles: administrator and user. The administrator can view the profile of registered users, and also delete them. The user can change his data in the profile.

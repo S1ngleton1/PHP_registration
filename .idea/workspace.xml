@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php-auth" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -66,6 +66,7 @@
       <workItem from="1611230324161" duration="226000" />
       <workItem from="1626949314597" duration="909000" />
       <workItem from="1626950242770" duration="10832000" />
+      <workItem from="1626967866693" duration="338000" />
     </task>
     <servers />
   </component>
